@@ -381,10 +381,10 @@ color:#000;
   font-family:'Nunito', sans-serif;
 }
 
-.page-footer input#first_name {color: #fff;}
-.page-footer input#email {color: #fff;}
-.page-footer input#last_name {color: #fff;}
-.page-footer textarea#textarea2 {color: #fff;}
+.page-footer input#first_name {color: #000;}
+.page-footer input#email {color: #000;}
+.page-footer input#last_name {color: #000;}
+.page-footer textarea#textarea2 {color: #000;}
 
 .page-footer button {
  background-color: #414241!important;
