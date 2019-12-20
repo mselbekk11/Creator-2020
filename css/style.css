@@ -42,14 +42,21 @@ background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox=
 background: linear-gradient(90deg, rgba(6,0,105,1) 0%, rgba(93,9,177,1) 55%, rgba(179,0,255,1) 100%); */
 }
 
-.background-cover img{
+.background-cover img.left{
   width: 50px;
   position: top left;
   margin: 20px 0px 0px 20px;
   /* opacity: .8; */
 }
 
-.background-cover img{
+.background-cover img.right{
+  width: 50px;
+  position: top left;
+  margin: 20px 20px 0px 20px;
+  opacity: .8;
+}
+
+.background-cover img.left{
   -webkit-animation: spin 5s infinite;
    animation: spin 5s infinite;
 }
