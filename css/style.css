@@ -53,7 +53,7 @@ background: linear-gradient(90deg, rgba(6,0,105,1) 0%, rgba(93,9,177,1) 55%, rgb
   width: 50px;
   position: top left;
   margin: 20px 20px 0px 20px;
-  opacity: .8;
+  /* opacity: .8; */
 }
 
 .background-cover img.left{
